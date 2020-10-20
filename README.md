@@ -16,4 +16,4 @@ To create a letter of acceptance for each accepted student on the Google Sheet; 
 
 First, I began with a Google Sheet full of student information to transcribe into specified letters. Given the sensitive information on the google sheet, I only included a small snippet of the complete Google Sheet, as seen below:
 
-![](images/Copia de Cartas_Aidan - Hoja1-1.png)
+![](images/Copia%20de%20Cartas_Aidan%20-%20Hoja1-1.png)
