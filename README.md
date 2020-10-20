@@ -23,3 +23,12 @@ First, I began with a Google Sheet full of student information to transcribe int
 Step 2 is really the first step where I did actual work. I made three templates, one shown below, with variable placeholders in the spots where all the student information would eventually go. The variable placeholders can be noted by all the text within two pound/hashtage symbols, such as ##Full_name##
 
 ![](images/IFMSA%20Template%20Spanish-1.png)
+
+
+### Step 3: 
+
+Next, I wrote a script to open the Google Sheets Document, select the correct template, make a copy of that template, input the varialbes to the proper places, and then finally rename the copied document and move it to a specified folder. This code can be seen in the "generation_script" folder. 
+
+A final copy with bogus information can be seen below. 
+
+![](images/Copia%20de%20Cartas_Aidan%20-%20Hoja1-1.png)
