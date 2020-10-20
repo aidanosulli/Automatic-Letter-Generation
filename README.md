@@ -17,3 +17,9 @@ To create a letter of acceptance for each accepted student on the Google Sheet; 
 First, I began with a Google Sheet full of student information to transcribe into specified letters. Given the sensitive information on the google sheet, I only included a small snippet of the complete Google Sheet, as seen below:
 
 ![](images/Copia%20de%20Cartas_Aidan%20-%20Hoja1-1.png)
+
+### Step 2: 
+
+Step 2 is really the first step where I did actual work. I made three templates, one shown below, with variable placeholders in the spots where all the student information would eventually go. The variable placeholders can be noted by all the text within two pound/hashtage symbols, such as ##Full_name##
+
+![](images/IFMSA%20Template%20Spanish-1.png)
