@@ -7,7 +7,7 @@ After a little research, I discovered Google Apps Script,Google's version of Jav
 
 
 ## Goal
-To create a letter of acceptance for each accepted student on the Google Sheet; to select the correct template upon which to add all the necessary information, from the students full name, outstanding tuition balance, future mentor, etc; to automatically send all template documents to a specified folder; for the script to only make one folder per student. 
+To create a letter of acceptance for each accepted student on the Google Sheet; to select the correct template upon which to add all the necessary information, inlcuding the students full name, tuition balance, future mentor, etc; to automatically move all template documents to a specified folder; for the script to only make one letter per student. 
 
 
 ## Summary of Mini Project
