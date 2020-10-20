@@ -32,3 +32,8 @@ Next, I wrote a script to open the Google Sheets Document, select the correct te
 A final copy with bogus information can be seen below. 
 
 ![](images/AidanOSullivan-EEUU%20-1.png)
+
+
+### Future Improvements
+
+The trickiest long term aspect of this project is, without a doubt, creating a function that is simple enough to read and use that my ex-colleagues with zero coding experience can still use the function long after I am on to my next internship. I would have loved to have interviewed several of my coworkers to better understand what kinds of function designs they would have been most comfortable with. For example, would it be best for the function to take in no arguments and they just manually change the template IDs in the script, or would they have preferred that the template IDs be input parameters of the "createDocument" function? Hopefully one day I am take this project full circle for them. 
