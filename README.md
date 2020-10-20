@@ -31,4 +31,4 @@ Next, I wrote a script to open the Google Sheets Document, select the correct te
 
 A final copy with bogus information can be seen below. 
 
-![](images/Copia%20de%20Cartas_Aidan%20-%20Hoja1-1.png)
+![](images/AidanOSullivan-EEUU%20-1.png)
